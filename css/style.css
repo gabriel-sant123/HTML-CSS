@@ -1,0 +1,39 @@
+body{
+    font-family: Helvetica;
+    text-align: center ;
+    color: rgb(12, 12, 12);
+    background-color: rgb(114, 218, 215);
+}
+
+/* Determinando estilo do bloco nav, */
+.div-projetos{
+    justify-content: space-between;
+    padding: 30px;
+    text-align: left;
+    background-color: aliceblue;
+    border-bottom: 1px solid #676;
+}
+
+img{
+    border: 3px solid rgb(15,194,218);
+    height: 200px;
+
+}
+
+a:visited {
+    color: rgb(116, 171, 238);
+
+}
+
+.decorarion{
+    text-decoration: none;
+    transition: 0.5s;
+
+}
+
+a:hover{
+    background-color: rgb(184, 227, 244);
+    color: rgb(15,89,150);
+
+
+}

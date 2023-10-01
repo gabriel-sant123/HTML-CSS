@@ -1,0 +1,73 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(90, 141, 124);
+}
+#topo{
+    text-align: center;
+}
+
+img{
+    height: 300px;
+}
+
+.autobiografia{
+    background-color: beige;
+    border-bottom: black;
+}
+
+section{
+    background-color: rgb(157, 99, 27);
+    padding: 20px;
+}
+
+.div-paragrafo1{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid #676;
+}
+
+.div-paragrafo2{
+   
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid #676;
+}
+
+
+.div-paragrafo3{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid #676;
+}
+
+#img1{
+    height: 100px;
+}
+
+#img2{
+    height: 100px;
+    text-align: left;
+}
+
+#img3{
+    height: 100px;
+}
+#final{
+    text-align: center;
+}
+
+
+.tabela{
+    background-color: burlywood;
+    width: 10000 px;
+}
+
+tr{
+    background-color: white;
+     height: 10000 px;
+    padding: 8px
+    border 4px black ;
+}
