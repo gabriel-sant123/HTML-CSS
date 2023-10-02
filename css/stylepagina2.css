@@ -13,11 +13,14 @@ img{
 .autobiografia{
     background-color: beige;
     border-bottom: black;
+    border-radius: 10px;
 }
 
 section{
     background-color: rgb(157, 99, 27);
     padding: 20px;
+    border-radius: 10px;
+
 }
 
 .div-paragrafo1{
@@ -59,15 +62,27 @@ section{
     text-align: center;
 }
 
+.imagens{
+    display: flex;
+    align-items: center;
+    justify-content:center;
+
+}
 
 .tabela{
     background-color: burlywood;
     width: 10000 px;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content:center;
+
 }
 
 tr{
     background-color: white;
-     height: 10000 px;
+    height: 10000 px;
     padding: 8px
     border 4px black ;
+    justify-content: center;
 }
