@@ -73,16 +73,20 @@ section{
     background-color: burlywood;
     width: 10000 px;
     border-radius: 10px;
-    display: flex;
     align-items: center;
     justify-content:center;
 
 }
 
-tr{
+.tabela tr{
     background-color: white;
     height: 10000 px;
     padding: 8px
     border 4px black ;
     justify-content: center;
+}
+
+.tabela td{
+    width: 400px;
+    border: 2px solid black;
 }
